@@ -36,7 +36,7 @@ public class _15_3Sum {
 
 		Scanner scn = new Scanner(System.in);
 
-		int n = Integer.parseInt(scn.next());
+		int n = scn.nextInt() ;
 
 		int[] arr = new int[n];
 

@@ -44,6 +44,8 @@ public class _509_FibonacciNumber {
 
 		int n = scn.nextInt();
 		System.out.println(fib(n));
+		
+		scn.close();
 	}
 
 	public static int fib(int N) {

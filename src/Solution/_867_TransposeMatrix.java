@@ -43,6 +43,8 @@ public class _867_TransposeMatrix {
 		}
 
 		display(transpose(A));
+		
+		scn.close();
 
 	}
 

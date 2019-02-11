@@ -39,6 +39,8 @@ public class _448_FindNumbersDisappearedArray {
 		}
 
 		System.out.println(findDisappearedNumbers(arr));
+		
+		scn.close();
 	}
 
 	public static List<Integer> findDisappearedNumbers(int[] nums) {

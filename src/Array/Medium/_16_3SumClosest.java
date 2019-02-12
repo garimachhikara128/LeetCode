@@ -1,4 +1,4 @@
-package Array.Easy;
+package Array.Medium;
 
 import java.util.Arrays;
 import java.util.Scanner;
